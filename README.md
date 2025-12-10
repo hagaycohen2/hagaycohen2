@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Hagay Cohen
 
-<!--
-**hagaycohen2/hagaycohen2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about **Cybersecurity, Complex Algorithmics, and Cryptography**.
 
-Here are some ideas to get you started:
+I focus on developing creative, high-performance solutions for challenging technical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Highlights
+
+* **Security:** Deep dives into cryptographic primitives like Secret-Sharing.
+* **Algorithmics:** Applying Graph Theory and advanced ML techniques (like my award-winning Divide & Conquer model) for superior data classification.
+
+Feel free to explore my repositories for these projects and more useful tools!
+
+---
+
+### 📬 Connect
+
+* **LinkedIn:** [Hagay Cohen](https://www.linkedin.com/in/me) 
+
+### 💻 Metrics
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/hagaycohen)
